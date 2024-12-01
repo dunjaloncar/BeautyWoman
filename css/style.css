@@ -677,7 +677,7 @@ table td{
 #contact-boxs{
     display: flex;
     justify-content: center;
-    padding: 100px;
+    margin: 50px;
 }
 #contact-form{
     border: 1px solid rgba(230, 198, 96);
@@ -731,6 +731,12 @@ table td{
     margin-bottom: 10px;
     font-weight:500;
 }
+#ime{
+    text-align: center;
+    background-color: rgba(230, 198, 96, 0.92);
+    padding: 15px;
+    width:300px;
+}
 #contact p{
     color:gray;
     margin-bottom: 10px;
@@ -741,21 +747,16 @@ label{
     color: rgba(230, 198, 96, 0.92);
 }
 #me{
-    width:100%;
+    width:200px;
     height:200px;
     background-image: url('../images/dunja.jpg');
     background-size:300%;
-    background-position:-250px -300px;
+    background-position:-220px -250px;
     background-repeat: no-repeat;
     border-radius:50%;
     margin-bottom: 10px;
 
 }
-#ime{
-    text-align: center;
-    font-weight: 600;
-    background-color: rgba(230, 198, 96, 0.92);
-    padding: 10px;
-}
+
 /***contact-end***/
 /***kontakt.html-end***/
