@@ -483,7 +483,6 @@ table td{
     font-style: normal;
     font-size: 52px;
     margin-bottom:10px;
-   
 }
 #wrapper-cene2 i{
     color: gray;
@@ -496,7 +495,7 @@ table td{
     justify-content: center;
 }
 #wrapper-cene2{
-    margin:100px 0px;
+    margin:100px 30px;
 }
 /***cene-end***/
 /***cene.html-end***/
