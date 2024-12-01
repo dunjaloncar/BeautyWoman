@@ -688,6 +688,7 @@ table td{
     padding: 20px;
     margin-left:200px;
     width:310px;
+    height:300px;
 }
 #email{
     margin-top:30px;
@@ -706,7 +707,7 @@ table td{
 }
 #time{
     padding: 10px;
-    border: 1px solid rgba(25, 25, 25, 0.29);
+    border: none;
     background-color: rgba(230, 198, 96);
     color: white;
     margin-bottom: 20px;
@@ -742,6 +743,23 @@ label{
     font-weight: 300;
     font-size: 25px;
     color: rgba(230, 198, 96, 0.92);
+}
+#me{
+    width:100%;
+    height:200px;
+    background-image: url('../images/dunja.jpg');
+    background-size:300%;
+    background-position:-250px -300px;
+    background-repeat: no-repeat;
+    border-radius:50%;
+    margin-bottom: 10px;
+
+}
+#ime{
+    text-align: center;
+    font-weight: 600;
+    background-color: rgba(230, 198, 96, 0.92);
+    padding: 10px;
 }
 /***contact-end***/
 /***kontakt.html-end***/
